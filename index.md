@@ -2,11 +2,9 @@
 
 SafeCity ("us", "we", or "our") operates the SafeCity mobile application (the "Service").
 
-Unlike others, our intention is to be completly transparent in regard to the data we collect and why it is collected. Therefore, this page informs you of our policies regarding the collection and use of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy for SafeCity is created with the help of the Free Privacy Policy Generator.
+Our intention is to be completly transparent in regard to the data we collect and why it is collected. Therefore, this page informs you of our policies regarding the collection and use of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy for SafeCity is created with the help of the Free Privacy Policy Generator.
 
 By accessing or using our application, you agree to the terms of this privacy policy. Your use of the Application is subject to the terms set forth in this Privacy Policy and any other terms we may provide you.
-
-The data that we collect is only used for providing and improving the Service.
 
 ## Information Collection And Use
 
